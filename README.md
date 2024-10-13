@@ -1,3 +1,5 @@
+This project is live in AWS and the deployed model can be found at: http://northafricawildfires2-env.eba-kijp26yg.us-east-1.elasticbeanstalk.com/ 
+
 # Global South Forest Fires Analysis
 
 ## Project Overview
